@@ -427,7 +427,7 @@ Custom Elements
 	position: absolute; 
 	left: 50%; 
 	top: 50%; 
-	background-image:url(../images/loading.gif); 
+	background-image:url(../newimages/loading.gif); 
 	background-repeat: no-repeat; 
 	background-position: center;    
 	-webkit-background-size: cover; 
@@ -653,7 +653,7 @@ Slider
   	-moz-background-size: cover;
   	-o-background-size: cover;
   	background-size: cover;
-	background-image:url(../images/bg-home-slider.jpg);
+	background-image:url(../newimages/bg-home-slider.jpg);
 	background-repeat:no-repeat;
 	background-position:top center;
 }
